@@ -1,0 +1,13 @@
+server:
+  port: 8888
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/AdrianRentea/spring-cloud-config
+          search-paths: 'configData'
+        refresh-rate: 1
+  refresh:
+    enabled: true
