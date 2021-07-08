@@ -1,4 +1,6 @@
 server:
-    port: 3332
-service:
-    greeting: "salut"
+  port: 8004
+
+app:
+  service:
+    name: Spring Cloud Client Example With a Special Profile
