@@ -49,16 +49,3 @@ spring:
       fetch-registry: true
 server:
   port: ${tpd.peer2Port}
-
-#
-#spring:
-#  application:
-#    name: spring-cloud-eureka-client
-#server:
-#  port: 8080
-#eureka:
-#  client:
-#    serviceUrl:
-#      defaultZone: ${EUREKA_URI:http://localhost:8000/eureka}
-#  instance:
-#    preferIpAddress: true
