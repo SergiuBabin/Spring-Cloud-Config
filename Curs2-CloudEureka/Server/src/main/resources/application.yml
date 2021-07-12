@@ -1,5 +1,5 @@
 server:
-  port: 8000
+  port: 8761
 
 spring:
   application:
@@ -10,50 +10,3 @@ eureka:
     fetch-registry: false
   instance:
     hostname: localhost
-
-#tpd:
-#  peer1Port: 8761
-#  peer2Port: 8762
-#
-#management:
-#  endpoint:
-#    health:
-#      enabled: true
-#      show-details: always
-#    shutdown:
-#      enabled: true
-#  endpoints:
-#    web:
-#      base-path: /
-#      exposure:
-#        include: '*'
-#
-#---
-#spring:
-#  profiles: peer1
-#  eureka:
-#    instance:
-#      hostname: eureka-peer1
-#      appname: eureka-cluster
-#    client:
-#      serviceUrl:
-#        defaultZone: http://eureka-peer2:${tpd.peer2Port}/eureka
-#      register-with-eureka: true
-#      fetch-registry: true
-#server:
-#  port: ${tpd.peer1Port}
-#
-#---
-#spring:
-#  profiles: peer2
-#  eureka:
-#    instance:
-#      hostname: eureka-peer2
-#      appname: eureka-cluster
-#    client:
-#      serviceUrl:
-#        defaultZone: http://eureka-peer1:${tpd.peer2Port}/eureka
-#      register-with-eureka: true
-#      fetch-registry: true
-#server:
-#  port: ${tpd.peer2Port}
