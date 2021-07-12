@@ -1,0 +1,29 @@
+server:
+  port: 8011
+  ribbon:
+    eureka:
+      enabled: true
+    ServerListRefreshInterval: 1000
+
+spring:
+  application:
+    name: cloud-config-server
+  profiles:
+    active: native
+  cloud:
+    config:
+      server:
+        native:
+          search-locations:
+            - classpath:/
+
+
+
+#server.ribbon.listOfServers=localhost:9090,localhost:9091,localhost:9092
+
+#logging.level.root=TRACE
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka
