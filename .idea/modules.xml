@@ -3,6 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Cloud-Config.iml" filepath="$PROJECT_DIR$/.idea/Spring-Cloud-Config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curs2-CloudEureka/Verification/Client/Client.iml" filepath="$PROJECT_DIR$/Curs2-CloudEureka/Verification/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curs2-CloudEureka/Verification/Cloud-Config-Server/Cloud-Config-Server.iml" filepath="$PROJECT_DIR$/Curs2-CloudEureka/Verification/Cloud-Config-Server/Cloud-Config-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curs2-CloudEureka/Server/Server.iml" filepath="$PROJECT_DIR$/Curs2-CloudEureka/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Cloud-Config.iml" filepath="$PROJECT_DIR$/.idea/Spring-Cloud-Config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curs1-Cloud/client/demo.iml" filepath="$PROJECT_DIR$/Curs1-Cloud/client/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curs2-CloudEureka/Client/demo (1) (Eureka.Client.ITSS).iml" filepath="$PROJECT_DIR$/Curs2-CloudEureka/Client/demo (1) (Eureka.Client.ITSS).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curs1-Cloud/server/demo (1) (Spring.Cloud.Server.ITSS).iml" filepath="$PROJECT_DIR$/Curs1-Cloud/server/demo (1) (Spring.Cloud.Server.ITSS).iml" />
     </modules>
   </component>
 </project>
