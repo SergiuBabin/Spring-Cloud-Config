@@ -3,9 +3,6 @@ tpd:
   peer2Port: 8763
 
 
-
-
-
 management:
   endpoint:
     health:
