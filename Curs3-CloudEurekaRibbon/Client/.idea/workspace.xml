@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9ce0450-6c12-41cb-b7bf-611e53bfb858" name="Default Changelist" comment="" />
+    <list default="true" id="b9ce0450-6c12-41cb-b7bf-611e53bfb858" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curs2-CloudEureka/Client/src/main/java/Eureka/Client/ITSS/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Curs2-CloudEureka/Client/src/main/java/Eureka/Client/ITSS/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curs2-CloudEureka/Client/src/main/java/Eureka/Client/ITSS/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Curs2-CloudEureka/Client/src/main/java/Eureka/Client/ITSS/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curs2-CloudEureka/Client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Curs2-CloudEureka/Client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Eureka/Client/ITSS/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Eureka/Client/ITSS/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Eureka/Client/ITSS/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Eureka/Client/ITSS/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Eureka/Client/ITSS/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Eureka/Client/ITSS/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Eureka/Client/ITSS/GreetingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Eureka/Client/ITSS/GreetingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +109,7 @@
       <updated>1626090457498</updated>
       <workItem from="1626090459157" duration="4005000" />
       <workItem from="1626245826099" duration="1028000" />
-      <workItem from="1626251087326" duration="3817000" />
+      <workItem from="1626251087326" duration="3498000" />
     </task>
     <servers />
   </component>
