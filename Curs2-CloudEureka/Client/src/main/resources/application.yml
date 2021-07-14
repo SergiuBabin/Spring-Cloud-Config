@@ -1,6 +1,6 @@
 tpd:
   peer1Port: 8766
-  peer2Port: 8763
+  peer2Port: 8753
 
 #sdsad
 management:
