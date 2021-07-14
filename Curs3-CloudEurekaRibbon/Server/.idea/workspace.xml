@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19de8131-d13b-401e-99f8-39cccc1dffde" name="Default Changelist" comment="Finall" />
+    <list default="true" id="19de8131-d13b-401e-99f8-39cccc1dffde" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +14,6 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$/../.." value="futures/ribbonS" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -40,7 +35,6 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -64,8 +58,6 @@
       <workItem from="1625751460000" duration="4558000" />
       <workItem from="1625830962385" duration="2113000" />
       <workItem from="1626071279689" duration="7257000" />
-      <workItem from="1626251090187" duration="973000" />
-      <workItem from="1626252210874" duration="2412000" />
     </task>
     <task id="LOCAL-00001" summary="Finall">
       <created>1626096952752</created>
