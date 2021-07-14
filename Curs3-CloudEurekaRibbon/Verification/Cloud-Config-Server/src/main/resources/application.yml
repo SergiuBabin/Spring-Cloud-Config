@@ -1,0 +1,66 @@
+#server:
+#  port: 8011
+#
+#spring:
+#  application:
+#    name: cloud-config-server
+#  profiles:
+#    active: native
+#  cloud:
+#    config:
+#      server:
+#        native:
+#          search-locations:
+#            - classpath:/
+#
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8000/eureka
+
+tpd:
+  peer1Port: 8761
+  peer2Port: 8762
+
+management:
+  endpoint:
+    health:
+      enabled: true
+      show-details: always
+    shutdown:
+      enabled: true
+  endpoints:
+    web:
+      base-path: /
+      exposure:
+        include: '*'
+
+---
+spring:
+  profiles: peer1
+  eureka:
+    instance:
+      hostname: localhost
+      appname: eureka-cluster
+    client:
+      serviceUrl:
+        defaultZone: http://localhost:${tpd.peer2Port}/eureka
+      register-with-eureka: true
+      fetch-registry: true
+server:
+  port: ${tpd.peer1Port}
+
+---
+spring:
+  profiles: peer2
+  eureka:
+    instance:
+      hostname: localhost
+      appname: eureka-cluster
+    client:
+      serviceUrl:
+        defaultZone: http://localhost:${tpd.peer2Port}/eureka
+      register-with-eureka: true
+      fetch-registry: true
+server:
+  port: ${tpd.peer2Port}
