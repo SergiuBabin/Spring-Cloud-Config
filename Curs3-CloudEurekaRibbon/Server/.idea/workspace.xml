@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19de8131-d13b-401e-99f8-39cccc1dffde" name="Default Changelist" comment="" />
+    <list default="true" id="19de8131-d13b-401e-99f8-39cccc1dffde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curs2-CloudEureka/Client/src/main/java/Eureka/Client/ITSS/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Curs2-CloudEureka/Client/src/main/java/Eureka/Client/ITSS/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curs2-CloudEureka/Client/src/main/java/Eureka/Client/ITSS/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Curs2-CloudEureka/Client/src/main/java/Eureka/Client/ITSS/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curs2-CloudEureka/Client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Curs2-CloudEureka/Client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/main/java/Eureka/Client/ITSS/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/main/java/Eureka/Client/ITSS/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/main/java/Eureka/Client/ITSS/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/main/java/Eureka/Client/ITSS/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/target/classes/Eureka/Client/ITSS/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/target/classes/Eureka/Client/ITSS/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/target/classes/Eureka/Client/ITSS/GreetingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/target/classes/Eureka/Client/ITSS/GreetingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -58,6 +75,8 @@
       <workItem from="1625751460000" duration="4558000" />
       <workItem from="1625830962385" duration="2113000" />
       <workItem from="1626071279689" duration="7257000" />
+      <workItem from="1626251090187" duration="973000" />
+      <workItem from="1626252210874" duration="2097000" />
     </task>
     <task id="LOCAL-00001" summary="Finall">
       <created>1626096952752</created>
