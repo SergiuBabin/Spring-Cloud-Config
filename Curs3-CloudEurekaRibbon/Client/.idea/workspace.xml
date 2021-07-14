@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9ce0450-6c12-41cb-b7bf-611e53bfb858" name="Default Changelist" comment="" />
+    <list default="true" id="b9ce0450-6c12-41cb-b7bf-611e53bfb858" name="Default Changelist" comment="last one" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +75,23 @@
       <workItem from="1626090459157" duration="4005000" />
       <workItem from="1626253071236" duration="1954000" />
       <workItem from="1626264654361" duration="22000" />
+      <workItem from="1626266881825" duration="233000" />
     </task>
+    <task id="LOCAL-00001" summary="last one">
+      <created>1626266990867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626266990867</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finall">
+      <created>1626267106280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626267106280</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +108,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="last one" />
+    <MESSAGE value="finall" />
+    <option name="LAST_COMMIT_MESSAGE" value="finall" />
   </component>
 </project>
