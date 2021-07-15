@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9ce0450-6c12-41cb-b7bf-611e53bfb858" name="Default Changelist" comment="last">
-      <change beforePath="$PROJECT_DIR$/../Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b9ce0450-6c12-41cb-b7bf-611e53bfb858" name="Default Changelist" comment="finall" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +97,16 @@
       <workItem from="1626266596248" duration="51000" />
       <workItem from="1626266694956" duration="85000" />
       <workItem from="1626266904370" duration="188000" />
+      <workItem from="1626357845079" duration="338000" />
     </task>
+    <task id="LOCAL-00001" summary="finall">
+      <created>1626358133419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626358133419</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="last" />
-    <option name="LAST_COMMIT_MESSAGE" value="last" />
+    <MESSAGE value="finall" />
+    <option name="LAST_COMMIT_MESSAGE" value="finall" />
   </component>
 </project>
