@@ -19,7 +19,7 @@ public class GreetingController {
 
     @GetMapping("/hello")
     public String invokePaymentService() {
-        return template.getForObject("http://spring-cloud-eureka-client-peer2/hello", String.class);
+        return template.getForObject("http://spring-cloud-eureka-client/hello", String.class);
     }
 
     @GetMapping("/test")
