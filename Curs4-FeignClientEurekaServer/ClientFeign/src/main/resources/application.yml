@@ -1,0 +1,25 @@
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://localhost:8762/eureka/
+  instance:
+    hostname: localhost
+server:
+  port: 8718
+spring:
+  application:
+    name: Feign-Client
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+      base-path: /
+  health:
+    circuitbreakers:
+      enabled: true
+
+
